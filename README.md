@@ -17,6 +17,13 @@ Hardware/
 -Maker-Buoy Bill of Materials (BOM)
 
 
+Hardware/Mainboard/
+
+-Maker-Buoy.brd
+
+-Maker-Buoy.sch
+
+
 Hardware/CAD Files/
 
 -Maker-Buoy Top Plate
